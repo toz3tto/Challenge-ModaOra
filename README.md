@@ -52,17 +52,17 @@ Este projeto foi desenvolvido como parte de um desafio para criar um site de mod
 - **Fonte para títulos**: `Viaoda Libre` (disponível no Google Fonts).
 
 📁 ProjetoModaOra/
-│
-├── 📄 index.html              # Arquivo principal HTML
-├── 📁 css/                    # Pasta para arquivos CSS
-│   └── 📄 style.css           # Arquivo de estilos principal
-├── 📁 images/                 # Pasta para armazenar as imagens
-│   ├── 📄 topo.jpg            # Imagem do topo do site
-│   ├── 📄 modelo1.jpg         # Imagem do modelo 1
-│   ├── 📄 modelo2.jpg         # Imagem do modelo 2
-│   ├── 📄 modelo3.jpg         # Imagem do modelo 3
-│   └── 📄 bg_detalhe.png      # Imagem de fundo da seção "Sobre nós"
-└── 📄 README.md               # Documentação do projeto
+-│
+-├── 📄 index.html              # Arquivo principal HTML
+-├── 📁 css/                    # Pasta para arquivos CSS
+-│   └── 📄 style.css           # Arquivo de estilos principal
+-├── 📁 images/                 # Pasta para armazenar as imagens
+-│   ├── 📄 topo.jpg            # Imagem do topo do site
+-│   ├── 📄 modelo1.jpg         # Imagem do modelo 1
+-│   ├── 📄 modelo2.jpg         # Imagem do modelo 2
+-│   ├── 📄 modelo3.jpg         # Imagem do modelo 3
+-│   └── 📄 bg_detalhe.png      # Imagem de fundo da seção "Sobre nós"
+-└── 📄 README.md               # Documentação do projeto
 
 Copy
 
