@@ -1,6 +1,11 @@
+
 # Projeto Moda Ora
 
 Este projeto foi desenvolvido como parte de um desafio para criar um site de moda responsivo e elegante, utilizando HTML e CSS. O objetivo era praticar a construção de layouts modernos, com foco em tipografia, cores e organização do conteúdo.
+
+📸 Video
+
+https://github.com/user-attachments/assets/5396ee11-d0b9-42c4-a848-3331b8a342c2
 
 ## 🚀 Funcionalidades
 
@@ -72,7 +77,8 @@ Copy
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/ProjetoModaOra.git
+   git clone https://github.com/toz3tto/ProjetoModaOra.git
+
 Navegue até a pasta do projeto:
 
 bash
@@ -82,10 +88,11 @@ Abra o arquivo index.html:
 
 Basta abrir o arquivo index.html no seu navegador para visualizar o projeto.
 
-📸 Screenshots
-Screenshot do Projeto Moda Ora
+
+ Projeto Moda Ora
 
 🤝 Contribuição
+
 Contribuições são bem-vindas! Siga os passos abaixo:
 
 Faça um fork do projeto.
