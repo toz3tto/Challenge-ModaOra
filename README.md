@@ -51,6 +51,7 @@ Este projeto foi desenvolvido como parte de um desafio para criar um site de mod
 - **Fonte padrão**: `Roboto`
 - **Fonte para títulos**: `Viaoda Libre` (disponível no Google Fonts).
 
+```
 📁 ProjetoModaOra/
 -│
 -├── 📄 index.html              # Arquivo principal HTML
@@ -63,6 +64,7 @@ Este projeto foi desenvolvido como parte de um desafio para criar um site de mod
 -│   ├── 📄 modelo3.jpg         # Imagem do modelo 3
 -│   └── 📄 bg_detalhe.png      # Imagem de fundo da seção "Sobre nós"
 -└── 📄 README.md               # Documentação do projeto
+```
 
 Copy
 
