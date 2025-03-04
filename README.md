@@ -108,6 +108,6 @@ git clone https://github.com/toz3tto/Challenge-ModaOra.git
    - Push para a branch (git push origin feature/NovaFeature).
    
    - Abra um Pull Request.
-   - 
+
 ---
 
