@@ -76,20 +76,22 @@ Copy
 ## 🛠️ Como Executar o Projeto
 
 1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/toz3tto/ProjetoModaOra.git
-
+```bash
+git clone https://github.com/toz3tto/Challenge-ModaOra.git
+```
+   
 2. **Navegue até a pasta do projeto**:
 
   ```bash
-      Copy
-      cd ProjetoModaOra
+  Copy
+  cd ProjetoModaOra
    
-      Abra o arquivo index.html:
+  Abra o arquivo index.html:
 
-      Basta abrir o arquivo index.html no seu navegador para visualizar o projeto.
+  Basta abrir o arquivo index.html no seu navegador para visualizar o projeto.
    ```
 
+---
 
  **Projeto Moda Ora**:
 
@@ -106,4 +108,6 @@ Copy
    - Push para a branch (git push origin feature/NovaFeature).
    
    - Abra um Pull Request.
+   - 
+---
 
