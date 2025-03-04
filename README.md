@@ -95,7 +95,7 @@ git clone https://github.com/toz3tto/Challenge-ModaOra.git
 
  **Projeto Moda Ora**:
 
-   🤝 Contribuição
+🤝 Contribuição
    
    Contribuições são bem-vindas! Siga os passos abaixo:
    
@@ -111,3 +111,6 @@ git clone https://github.com/toz3tto/Challenge-ModaOra.git
 
 ---
 
+👨‍💻 Desenvolvido por toz3tto
+
+---
