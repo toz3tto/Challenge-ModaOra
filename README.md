@@ -79,29 +79,31 @@ Copy
    ```bash
    git clone https://github.com/toz3tto/ProjetoModaOra.git
 
-Navegue até a pasta do projeto:
+2. **Navegue até a pasta do projeto**:
 
-bash
-Copy
-cd ProjetoModaOra
-Abra o arquivo index.html:
+  ```bash
+      Copy
+      cd ProjetoModaOra
+   
+      Abra o arquivo index.html:
 
-Basta abrir o arquivo index.html no seu navegador para visualizar o projeto.
+      Basta abrir o arquivo index.html no seu navegador para visualizar o projeto.
+   ```
 
 
- Projeto Moda Ora
+ **Projeto Moda Ora**:
 
-🤝 Contribuição
-
-Contribuições são bem-vindas! Siga os passos abaixo:
-
-Faça um fork do projeto.
-
-Crie uma branch para sua feature (git checkout -b feature/NovaFeature).
-
-Commit suas mudanças (git commit -m 'Adicionando nova feature').
-
-Push para a branch (git push origin feature/NovaFeature).
-
-Abra um Pull Request.
+   🤝 Contribuição
+   
+   Contribuições são bem-vindas! Siga os passos abaixo:
+   
+   - Faça um fork do projeto.
+   
+   - Crie uma branch para sua feature (git checkout -b feature/NovaFeature).
+   
+   - Commit suas mudanças (git commit -m 'Adicionando nova feature').
+   
+   - Push para a branch (git push origin feature/NovaFeature).
+   
+   - Abra um Pull Request.
 
